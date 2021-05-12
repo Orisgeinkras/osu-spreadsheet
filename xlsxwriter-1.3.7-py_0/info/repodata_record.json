@@ -1,0 +1,26 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "features": "",
+  "fn": "xlsxwriter-1.3.7-py_0.conda",
+  "legacy_bz2_md5": "669a66d508d92c1f91bb1feb23d17475",
+  "legacy_bz2_size": 106222,
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "md5": "cdae1bd4e0f74e9db355e37cf240dbad",
+  "name": "xlsxwriter",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "99511de7dbf30ab95ef7e6060be973ae0f700db5ed407c2ec7ba1eff3e221f3b",
+  "size": 110677,
+  "subdir": "noarch",
+  "timestamp": 1602692890944,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/xlsxwriter-1.3.7-py_0.conda",
+  "version": "1.3.7"
+}
